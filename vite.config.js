@@ -1,8 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 
-// https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/ToDo-App/',
-})
+  base: '/ToDo-App/', // Ensure the repository name is correct and has slashes
+});
