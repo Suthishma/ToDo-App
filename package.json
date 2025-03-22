@@ -2,7 +2,7 @@
   "name": "todo-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Suthishma/ToDo-App.git",
+  "homepage": "https://github.com/Suthishma/ToDo-App",
   "type": "module",
   "scripts": {
     "dev": "vite",
